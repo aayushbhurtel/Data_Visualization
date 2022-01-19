@@ -4,4 +4,4 @@
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz1.ipynb">Quiz 1</a> | This project reads CSV file from professor repository and interpret those data visually using python libraries like pandas, numpy, matplotlab and seaborn. |
+|   1   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz1.ipynb"> Quiz1 </a> | This project reads CSV file from professor repository and interpret those data visually using python libraries like pandas, numpy, matplotlab and seaborn. |
