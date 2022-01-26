@@ -9,3 +9,4 @@
 |   3   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz3.ipynb"> Quiz3 </a> | This project uses google bigQuery to perform average and maximum function in sql using austin bikshare dataset . |
 |   4   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz4.ipynb"> Quiz4 </a> | This project uses google bigQuery to calculate average time for a trip and how many trips did a biker complete based on starting point. |
 |   5   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz5.ipynb"> Quiz5 </a> | This project uses google bigQuery to calculate second most poplular starting point and round trip that lasted over an hour.|
+|   6   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz6.ipynb"> Quiz6 </a> | This project uses google bigQuery to join data from a same table and JOIN two different dataset. |
