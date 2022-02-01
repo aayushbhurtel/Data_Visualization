@@ -10,3 +10,7 @@
 |   4   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz4.ipynb"> Quiz4 </a> | This project uses google bigQuery to calculate average time for a trip and how many trips did a biker complete based on starting point. |
 |   5   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz5.ipynb"> Quiz5 </a> | This project uses google bigQuery to calculate second most poplular starting point and round trip that lasted over an hour.|
 |   6   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz6.ipynb"> Quiz6 </a> | This project uses google bigQuery to join data from a same table and JOIN two different dataset. |
+|   7   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz7.ipynb"> Quiz7 </a> | descrption of project |
+|   8   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz8.ipynb"> Quiz8 </a> | descrption of project |
+|   9   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz9.ipynb"> Quiz9 </a> | descrption of project |
+|   10   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz10.ipynb"> Quiz10 </a> | descrption of project |
