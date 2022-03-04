@@ -14,3 +14,13 @@
 |   8   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz8.ipynb"> Quiz8 </a> | descrption of project |
 |   9   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz9.ipynb"> Quiz9 </a> | descrption of project |
 |   10   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz10.ipynb"> Quiz10 </a> | descrption of project |
+|   11   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz11.ipynb"> Quiz11 </a> | descrption of project |
+|   12   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz12.ipynb"> Quiz12 </a> | descrption of project |
+|   13   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz13.ipynb"> Quiz13 </a> | descrption of project |
+|   14   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz14.ipynb"> Quiz14 </a> | descrption of project |
+|   15   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz15.ipynb"> Quiz15 </a> | descrption of project |
+|   16   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz16.ipynb"> Quiz16 </a> | descrption of project |
+|   17   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz17.ipynb"> Quiz17 </a> | descrption of project |
+|   18   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz18.ipynb"> Quiz18 </a> | descrption of project |
+|   19   | <a href="https://github.com/aayushbhurtel/Data_Visualization/blob/main/Quiz19.ipynb"> Quiz19 </a> | descrption of project |
+
